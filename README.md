@@ -66,15 +66,15 @@ The dashboard is built using Power BI to support data-driven HR decisions and im
 
 ### HR Overview
 
-![HR Overview](HR_3D_1.png)
+![HR Overview](HR1.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](HR_3D_2.png)
+![Attrition Analysis](HR2.png)
 
 ### Employee Demographics
 
-![Employee Demographics](HR_3D_3.png)
+![Employee Demographics](HR3.png)
 
 ---
 
